@@ -16,3 +16,12 @@ Unity 2021.1.12f1
 
 ### 解説
 - [ゲームパッドの入力判定 – Joystick Tester](https://heratta-lab.com/joystick-tester/)
+
+## BindUserInput
+
+UserInput を使ったサンプルです。ゲームパッドとキーボードの入力をバインドして一つの入力として扱う内容です。
+
+![bind-user-input](./Documents/bind-user-input.gif)
+
+### 解説
+- [ユーザー入力のバインド – Bind User Input](https://heratta-lab.com/bind-user-input/)
